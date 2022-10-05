@@ -1,6 +1,6 @@
-# first_app
+# Personality Test App
 
-A new Flutter project.
+A quiz app built with flutter and dart, that predicts a user's personality type based on responses given to the questions.
 
 ## Getting Started
 
